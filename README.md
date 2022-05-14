@@ -1,4 +1,4 @@
-#METU Programming Contest 2022 
+# METU Programming Contest 2022 
 
 Team Name: Virtus
 Contestants: @iag99 @kugurerdem
